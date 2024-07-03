@@ -5,13 +5,13 @@ const Hero = () => {
     <section className="bg-gray-800 text-white">
       <div className="mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:h-screen lg:items-center">
         <div className="mx-auto max-w-3xl text-center">
-          <h1 className="bg-gradient-to-r from-teal-300 via-teal-500 to-teal-700 bg-clip-text text-3xl font-extrabold text-transparent sm:text-5xl">
-            All Your Digital Products
-            <span className="sm:block mt-4 "> Is One Click Away. </span>
+          <h1 className="bg-gradient-to-r from-teal-100 via-teal-500 to-teal-500 bg-clip-text text-3xl font-extrabold text-transparent sm:text-5xl">
+          Unlock All Your Digital Products
+            <span className="sm:block mt-4 "> with a Simple Click. </span>
           </h1>
 
           <p className="mx-auto mt-5 max-w-xl sm:text-xl/relaxed">
-            Start Exploring State of the Art Assets Now!
+          Uncover State-of-the-Art Assets Starting Now!
           </p>
 
           <div className="mt-8 flex flex-wrap justify-center gap-4">

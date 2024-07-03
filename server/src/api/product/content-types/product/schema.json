@@ -49,9 +49,9 @@
     "category": {
       "type": "enumeration",
       "enum": [
-        "TECH",
-        "MARKETING",
-        "SECURITY"
+        "Automobiles",
+        "Automobiles Parts"
+
       ]
     },
     "orders": {

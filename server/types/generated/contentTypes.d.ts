@@ -872,7 +872,7 @@ export interface ApiProductProduct extends Schema.CollectionType {
     instantDelivery: Attribute.Boolean;
     files: Attribute.Media;
     whatsIncluded: Attribute.Blocks;
-    category: Attribute.Enumeration<['TECH', 'MARKETING', 'SECURITY']>;
+    category: Attribute.Enumeration<['AUTOMOBILES', 'AUTOMOBILE PARTS']>;
     orders: Attribute.Relation<
       'api::product.product',
       'manyToMany',
